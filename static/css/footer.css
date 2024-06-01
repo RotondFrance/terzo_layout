@@ -1,0 +1,12 @@
+.contacts-container{
+    margin-right: 35px;
+}
+
+.contacts{
+    list-style-type: none;
+    display: flex;
+}
+
+.contacts li{
+    margin-left: 67px;
+}
